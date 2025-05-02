@@ -5,7 +5,7 @@ This repository contains the code related to the work "From Evidence Mining to M
 
 
 
-<img src="https://github.com/Fede-stack/Adaptive-RAG-for-Psychological-Assessment/blob/main/images/Pipeline.png" alt="" width="900">
+<img src="https://github.com/Fede-stack/BULUSI-CLPsych/blob/main/images/wellbeing.png" alt="" width="900">
 
 To cite this work:
 ```
