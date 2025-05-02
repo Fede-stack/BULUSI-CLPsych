@@ -1,0 +1,66 @@
+# Adaptive vs. Maladaptive Self-States Analysis and Consolidation
+
+## Task Description
+You will analyze the adaptive and maladaptive self-states identified by four different models. Your task is to create two consolidated lists: one for adaptive states and one for maladaptive states, selecting the most representative and frequently occurring elements across all models.
+
+## Definitions
+- **Self-states** are identifiable units characterized by specific combinations of Affect, Behavior, Cognition, and Desire/Need (ABCD) that tend to be coactivated in a meaningful manner for limited periods of time.
+
+- **Adaptive self-state**: Aspects of Affect, Behavior, and Cognition towards the self or others that are conducive to fulfilling basic desires/needs such as relatedness, autonomy, and competence.
+
+- **Maladaptive self-state**: Aspects of Affect, Behavior, and Cognition towards the self or others that hinder the fulfillment of basic desires/needs.
+
+## ABCD Framework Components
+1. **Affect (A)**: The emotions expressed
+   - Adaptive affects: Calm/laid back, content/happy, emotional pain/grieving, vigor/energetic, justifiable anger, proud
+   - Maladaptive affects: Anxious/tense/fearful, depressed/desperate/hopeless, mania, apathetic, aggressive anger, shame/guilt
+
+2. **Behavior (B)**: Actions toward self (BS) or others (BO)
+   - Adaptive behaviors: Self-care, relating to others, autonomous behavior
+   - Maladaptive behaviors: Self-harm, neglect, avoidance, fight or flight, overcontrolling
+
+3. **Cognition (C)**: Perceptions of self (CS) or others (CO)
+   - Adaptive cognitions: Self-acceptance, seeing others as related, seeing others as supporting autonomy
+   - Maladaptive cognitions: Self-criticism, seeing others as detached or over-attached, seeing others as blocking autonomy
+
+4. **Desire/Need (D)**: Main desires, expectations, or fears
+   - Adaptive desires: Relatedness, autonomy, competence, self-esteem, self-care
+   - Maladaptive expectations: Expectation that needs will not be met (relatedness, autonomy, competence)
+
+## Your Task
+1. Review the adaptive and maladaptive states identified by each of the four models.
+2. Identify patterns, common themes, and frequently occurring elements across all models.
+3. Create two consolidated lists:
+   - A list of the most representative and common adaptive states
+   - A list of the most representative and common maladaptive states
+
+## Selection Criteria
+- Prioritize elements that appear in multiple models
+- Include elements that strongly exemplify the ABCD framework
+
+## Input Format
+You will be provided with four sets of model outputs, each containing:
+- List of adaptive states identified by the model
+- List of maladaptive states identified by the model
+
+## Model Outputs
+#Model 1
+{output_model1}
+
+#Model 2
+{output_model1}
+
+#Model 3
+{output_model1}
+
+#Model 4
+{output_model1}
+
+## Output Format
+Return two lists in the following format:
+
+adaptive-state: [text1[SEP]text2[SEP]text3[SEP] ...]
+
+maladaptive-state: [text1[SEP]text2[SEP]text3[SEP]...]
+
+Provide no additional explanation or commentary beyond these two lists.
