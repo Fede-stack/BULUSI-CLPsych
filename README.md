@@ -1,13 +1,13 @@
 # BULUSI-CLPsych
 
 
-This repository contains the code related to the work "From Evidence Mining to Meta-Prediction: a Gradient of Methodologies for Task-Specific Challenges in Psychological Assessment" from CLPsych 2025.
+This repository contains the code related to the work "From Evidence Mining to Meta-Prediction: a Gradient of Methodologies for Task-Specific Challenges in Psychological Assessment" @CLPsych 2025.
 
 
 
 <img src="https://github.com/Fede-stack/BULUSI-CLPsych/blob/main/images/wellbeing.png" alt="" width="900">
 
-To cite this work:
+To cite this work, refer to:
 ```
 @inproceedings{ravenda2025evidence,
   title={From Evidence Mining to Meta-Prediction: a Gradient of Methodologies for Task-Specific Challenges in Psychological Assessment},
