@@ -1,0 +1,79 @@
+# Adaptive vs. Maladaptive Self-States Analysis
+
+## Task Description
+You will analyze social media posts to summarise  evidence of adaptive and maladaptive self-states. 
+
+## Definitions
+- **Self-states** are identifiable units characterized by specific combinations of Affect, Behavior, Cognition, and Desire/Need (ABCD) that tend to be coactivated in a meaningful manner for limited periods of time.
+
+- **Adaptive self-state**: Aspects of Affect, Behavior, and Cognition towards the self or others that are conducive to fulfilling basic desires/needs such as relatedness, autonomy, and competence.
+
+- **Maladaptive self-state**: Aspects of Affect, Behavior, and Cognition towards the self or others that hinder the fulfillment of basic desires/needs.
+
+## ABCD Framework Components
+1. **Affect (A)**: The emotions expressed
+   - Adaptive affects: Calm/laid back, content/happy, emotional pain/grieving, vigor/energetic, justifiable anger, proud
+   - Maladaptive affects: Anxious/tense/fearful, depressed/desperate/hopeless, mania, apathetic, aggressive anger, shame/guilt
+
+2. **Behavior (B)**: Actions toward self (BS) or others (BO)
+   - Adaptive behaviors: Self-care, relating to others, autonomous behavior
+   - Maladaptive behaviors: Self-harm, neglect, avoidance, fight or flight, overcontrolling
+
+3. **Cognition (C)**: Perceptions of self (CS) or others (CO)
+   - Adaptive cognitions: Self-acceptance, seeing others as related, seeing others as supporting autonomy
+   - Maladaptive cognitions: Self-criticism, seeing others as detached or over-attached, seeing others as blocking autonomy
+
+4. **Desire/Need (D)**: Main desires, expectations, or fears
+   - Adaptive desires: Relatedness, autonomy, competence, self-esteem, self-care
+   - Maladaptive expectations: Expectation that needs will not be met (relatedness, autonomy, competence)
+
+## Important Interpretation Guidelines
+- Look beyond surface-level negativity to identify underlying adaptive elements
+- When analyzing text, consider the underlying motivations, connections, and desires reflected in the person's words:
+  - Statements that show connection to others, even during suffering, reflect adaptive relatedness
+  - Actions taken to maintain relationships, even with difficulty, are adaptive
+  - Expressions of caring for others or being cared for by others are adaptive
+  - Efforts to improve one's situation, even amidst distress, show adaptive self-care
+  - Recognition of one's needs while experiencing challenges is adaptive
+  - The person is motivated to stay alive for others (adaptive behavior)
+
+- Adaptive elements can coexist with expressions of suffering. The presence of negative emotions does not automatically make a statement maladaptive if it also shows connection, hope, or positive intention, e.g. sentence like "All I'm doing with my life is surviving for the sake of a handful of people who don't want me to die" should be classified as adaptive despite expressing suffering, because they show that user is motivated to stay alive for others.
+
+## Critical Content Filtering Guidelines
+- Only content that directly expresses the user's mental states, emotions, behaviors, or desires should be classified as adaptive or maladaptive
+- Explicitly exclude:
+  - News headlines, article shares, or external content 
+  - References to celebrities, movies, music, or media that don't express the user's state
+  - Informational or factual posts that reveal nothing about the user's mental state
+  - General questions or requests for information that don't reveal the user's state
+  - Quotes or references to external content without personal commentary
+
+- To be classified as adaptive or maladaptive, text MUST:
+  1. Directly reflect the user's personal experience (use first-person pronouns or clearly refer to themselves)
+  2. Contain at least one ABCD element that reveals something about the user's mental state
+  3. Show how the user relates to themselves or others
+
+
+## Your Task
+Your summary should:
+1. Begin by determining which self-state is dominant (adaptive/maladaptive) and describe it first
+2. For each self-state, identify the central organizing aspect (A, B, C, or D) that drives the state
+3. Structure the summary around this central aspect and describe how it influences the rest
+4. Emphasize potential causal relationships between different ABCD elements
+5. If both adaptive and maladaptive states are present, describe the interplay between them
+6. If only one self-state is present (either adaptive or maladaptive), summarize only that state
+7. Naturally integrate ABCD elements into the description without explicitly labeling them
+
+## Examples of Posts and Posts Summaries
+
+{content}
+
+## Post to Analyze
+{post}
+
+## Adaptive and Maladaptive states associated with post
+{adaptive/maladaptive}
+
+## Output Format
+Generate a post-level summary that follows the guidelines above and the examples. Your summary should be a cohesive paragraph that naturally incorporates ABCD elements without explicitly labeling them.
+        
