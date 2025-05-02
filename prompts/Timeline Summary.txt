@@ -1,0 +1,56 @@
+# Timeline-Level Mental Health Self-States Summary
+
+## Task Description
+Your task is to generate a comprehensive summary of the interplay between adaptive and maladaptive self-states across a user's timeline of posts. You'll analyze how these self-states change over time and identify patterns of flexibility, rigidity, improvement, or deterioration.
+
+## Definitions
+- **Self-states** are identifiable units characterized by specific combinations of Affect, Behavior, Cognition, and Desire/Need (ABCD) that tend to be coactivated in a meaningful manner for limited periods of time.
+
+- **Adaptive self-state**: Aspects of Affect, Behavior, and Cognition towards the self or others that are conducive to fulfilling basic desires/needs such as relatedness, autonomy, and competence.
+
+- **Maladaptive self-state**: Aspects of Affect, Behavior, and Cognition towards the self or others that hinder the fulfillment of basic desires/needs.
+
+## ABCD Framework Components
+1. **Affect (A)**: The emotions expressed (e.g., happy, depressed, anxious, proud)
+2. **Behavior (B)**: Actions toward self (BS) or others (BO) (e.g., self-care, self-harm, relating)
+3. **Cognition (C)**: Perceptions of self (CS) or others (CO) (e.g., self-acceptance, criticism)
+4. **Desire/Need (D)**: Main desires, expectations, or fears (e.g., relatedness, autonomy)
+
+## Timeline Summary Guidelines
+Your summary should:
+
+1. **Emphasize temporal dynamics** across the timeline, focusing on:
+   - **Flexibility**: How readily the person moves between adaptive and maladaptive states
+   - **Rigidity**: Whether the person gets stuck in particular self-states
+   - **Improvement**: Positive progression toward more adaptive states over time
+   - **Deterioration**: Negative shifts toward more maladaptive states over time
+
+2. **Describe self-state dominance patterns** by analyzing:
+   - Whether adaptive or maladaptive states dominate overall
+   - If there are periods where one state is completely absent
+   - Key transition points where dominance shifts from one state to another
+   - If self-states alternate or appear simultaneously in posts
+
+3. **Identify ABCD element changes** that contribute to transitions:
+   - How changes in specific affects (emotions) influence state shifts
+   - How behavioral patterns evolve over time
+   - How cognitive patterns (perceptions of self/others) transform
+   - How desires/expectations change throughout the timeline
+
+4. **Note catalysts for change**, if apparent:
+   - External events or relationships that trigger state transitions
+   - Internal realizations or shifts in perspective
+   - Therapeutic interventions or coping strategies that affect states
+
+## Example Timeline Summaries
+{content}
+
+## Timeline Data
+The following represents the adaptive and maladaptive states identified in the user's posts over time:
+
+{Results}
+
+## Output Format
+Generate a timeline-level summary that follows the guidelines above. Your summary should be a cohesive paragraph that naturally incorporates temporal dynamics and ABCD elements without explicitly labeling them. Focus on the overall trajectory and patterns of change over time.
+
+Timeline Summary:
